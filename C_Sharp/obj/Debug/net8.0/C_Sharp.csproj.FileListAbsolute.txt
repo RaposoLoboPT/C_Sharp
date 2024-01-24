@@ -1,0 +1,15 @@
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\Programação\C_Sharp\C_Sharp\obj\Debug\net8.0\C_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\Programação\C_Sharp\C_Sharp\obj\Debug\net8.0\C_Sharp.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\Programação\C_Sharp\C_Sharp\obj\Debug\net8.0\C_Sharp.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\Programação\C_Sharp\C_Sharp\obj\Debug\net8.0\C_Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\Programação\C_Sharp\C_Sharp\obj\Debug\net8.0\C_Sharp.sourcelink.json
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\Programação\C_Sharp\C_Sharp\bin\Debug\net8.0\C_Sharp.exe
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\Programação\C_Sharp\C_Sharp\bin\Debug\net8.0\C_Sharp.deps.json
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\Programação\C_Sharp\C_Sharp\bin\Debug\net8.0\C_Sharp.runtimeconfig.json
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\Programação\C_Sharp\C_Sharp\bin\Debug\net8.0\C_Sharp.dll
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\Programação\C_Sharp\C_Sharp\bin\Debug\net8.0\C_Sharp.pdb
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\Programação\C_Sharp\C_Sharp\obj\Debug\net8.0\C_Sharp.dll
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\Programação\C_Sharp\C_Sharp\obj\Debug\net8.0\refint\C_Sharp.dll
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\Programação\C_Sharp\C_Sharp\obj\Debug\net8.0\C_Sharp.pdb
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\Programação\C_Sharp\C_Sharp\obj\Debug\net8.0\C_Sharp.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\Programação\C_Sharp\C_Sharp\obj\Debug\net8.0\ref\C_Sharp.dll
