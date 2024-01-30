@@ -6,8 +6,9 @@ IEnumerable<int> scoreQuery =
     select score;
 foreach (int i in scoreQuery)
 {
-    Console.WriteLine(i + " ");
+    Console.Write(i + " ");
 }
+Console.WriteLine();
 int l = 0;
 while (l < scores.Length)
 {
