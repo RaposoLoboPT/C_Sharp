@@ -9,6 +9,7 @@ IEnumerable<string> scoreQuery =
     // O "orderby" serve para ordenar os elementos.
     select $"The score greater than 80 is: {score}";
     // O "select" serve para selecionar o elemento. Podes fazer alterações nesse elemento. Exemplo: select numero * 2 (dobro).
+    // O LINQ serve para fazer consultas diretamente na fonte.
 foreach (string i in scoreQuery)
 {
     Console.WriteLine(i);
