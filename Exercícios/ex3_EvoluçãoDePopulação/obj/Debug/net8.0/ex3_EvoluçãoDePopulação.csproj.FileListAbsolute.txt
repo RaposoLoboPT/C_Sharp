@@ -1,0 +1,15 @@
+D:\Pessoal\C_Sharp-repo\C_Sharp\Exercícios\ex3_EvoluçãoDePopulação\obj\Debug\net8.0\ex3_EvoluçãoDePopulação.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pessoal\C_Sharp-repo\C_Sharp\Exercícios\ex3_EvoluçãoDePopulação\obj\Debug\net8.0\ex3_EvoluçãoDePopulação.AssemblyInfoInputs.cache
+D:\Pessoal\C_Sharp-repo\C_Sharp\Exercícios\ex3_EvoluçãoDePopulação\obj\Debug\net8.0\ex3_EvoluçãoDePopulação.AssemblyInfo.cs
+D:\Pessoal\C_Sharp-repo\C_Sharp\Exercícios\ex3_EvoluçãoDePopulação\obj\Debug\net8.0\ex3_EvoluçãoDePopulação.csproj.CoreCompileInputs.cache
+D:\Pessoal\C_Sharp-repo\C_Sharp\Exercícios\ex3_EvoluçãoDePopulação\obj\Debug\net8.0\ex3_EvoluçãoDePopulação.sourcelink.json
+D:\Pessoal\C_Sharp-repo\C_Sharp\Exercícios\ex3_EvoluçãoDePopulação\bin\Debug\net8.0\ex3_EvoluçãoDePopulação.exe
+D:\Pessoal\C_Sharp-repo\C_Sharp\Exercícios\ex3_EvoluçãoDePopulação\bin\Debug\net8.0\ex3_EvoluçãoDePopulação.deps.json
+D:\Pessoal\C_Sharp-repo\C_Sharp\Exercícios\ex3_EvoluçãoDePopulação\bin\Debug\net8.0\ex3_EvoluçãoDePopulação.runtimeconfig.json
+D:\Pessoal\C_Sharp-repo\C_Sharp\Exercícios\ex3_EvoluçãoDePopulação\bin\Debug\net8.0\ex3_EvoluçãoDePopulação.dll
+D:\Pessoal\C_Sharp-repo\C_Sharp\Exercícios\ex3_EvoluçãoDePopulação\bin\Debug\net8.0\ex3_EvoluçãoDePopulação.pdb
+D:\Pessoal\C_Sharp-repo\C_Sharp\Exercícios\ex3_EvoluçãoDePopulação\obj\Debug\net8.0\ex3_EvoluçãoDePopulação.dll
+D:\Pessoal\C_Sharp-repo\C_Sharp\Exercícios\ex3_EvoluçãoDePopulação\obj\Debug\net8.0\refint\ex3_EvoluçãoDePopulação.dll
+D:\Pessoal\C_Sharp-repo\C_Sharp\Exercícios\ex3_EvoluçãoDePopulação\obj\Debug\net8.0\ex3_EvoluçãoDePopulação.pdb
+D:\Pessoal\C_Sharp-repo\C_Sharp\Exercícios\ex3_EvoluçãoDePopulação\obj\Debug\net8.0\ex3_EvoluçãoDePopulação.genruntimeconfig.cache
+D:\Pessoal\C_Sharp-repo\C_Sharp\Exercícios\ex3_EvoluçãoDePopulação\obj\Debug\net8.0\ref\ex3_EvoluçãoDePopulação.dll
