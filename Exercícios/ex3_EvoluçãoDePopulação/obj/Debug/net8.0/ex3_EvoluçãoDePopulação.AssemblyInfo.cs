@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ex3_EvoluçãoDePopulação")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d94bb9855027a78f6db09a351c11aff8a6defe7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7bb8b9d319f3dbeef040f854260a993a98e814c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ex3_EvoluçãoDePopulação")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ex3_EvoluçãoDePopulação")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
