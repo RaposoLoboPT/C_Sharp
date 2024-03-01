@@ -163,3 +163,18 @@ C:\Users\Acer\OneDrive\Ambiente de Trabalho\Programação\C_Sharp\C_Sharp\aula_1
 C:\Users\Acer\OneDrive\Ambiente de Trabalho\Programação\C_Sharp\C_Sharp\aula_18\obj\Debug\net8.0\C_Sharp.pdb
 C:\Users\Acer\OneDrive\Ambiente de Trabalho\Programação\C_Sharp\C_Sharp\aula_18\obj\Debug\net8.0\C_Sharp.genruntimeconfig.cache
 C:\Users\Acer\OneDrive\Ambiente de Trabalho\Programação\C_Sharp\C_Sharp\aula_18\obj\Debug\net8.0\ref\C_Sharp.dll
+D:\Pessoal\C_Sharp-repo\C_Sharp\C_Sharp\aula_18\bin\Debug\net8.0\C_Sharp.exe
+D:\Pessoal\C_Sharp-repo\C_Sharp\C_Sharp\aula_18\bin\Debug\net8.0\C_Sharp.deps.json
+D:\Pessoal\C_Sharp-repo\C_Sharp\C_Sharp\aula_18\bin\Debug\net8.0\C_Sharp.runtimeconfig.json
+D:\Pessoal\C_Sharp-repo\C_Sharp\C_Sharp\aula_18\bin\Debug\net8.0\C_Sharp.dll
+D:\Pessoal\C_Sharp-repo\C_Sharp\C_Sharp\aula_18\bin\Debug\net8.0\C_Sharp.pdb
+D:\Pessoal\C_Sharp-repo\C_Sharp\C_Sharp\aula_18\obj\Debug\net8.0\C_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pessoal\C_Sharp-repo\C_Sharp\C_Sharp\aula_18\obj\Debug\net8.0\C_Sharp.AssemblyInfoInputs.cache
+D:\Pessoal\C_Sharp-repo\C_Sharp\C_Sharp\aula_18\obj\Debug\net8.0\C_Sharp.AssemblyInfo.cs
+D:\Pessoal\C_Sharp-repo\C_Sharp\C_Sharp\aula_18\obj\Debug\net8.0\C_Sharp.csproj.CoreCompileInputs.cache
+D:\Pessoal\C_Sharp-repo\C_Sharp\C_Sharp\aula_18\obj\Debug\net8.0\C_Sharp.sourcelink.json
+D:\Pessoal\C_Sharp-repo\C_Sharp\C_Sharp\aula_18\obj\Debug\net8.0\C_Sharp.dll
+D:\Pessoal\C_Sharp-repo\C_Sharp\C_Sharp\aula_18\obj\Debug\net8.0\refint\C_Sharp.dll
+D:\Pessoal\C_Sharp-repo\C_Sharp\C_Sharp\aula_18\obj\Debug\net8.0\C_Sharp.pdb
+D:\Pessoal\C_Sharp-repo\C_Sharp\C_Sharp\aula_18\obj\Debug\net8.0\C_Sharp.genruntimeconfig.cache
+D:\Pessoal\C_Sharp-repo\C_Sharp\C_Sharp\aula_18\obj\Debug\net8.0\ref\C_Sharp.dll

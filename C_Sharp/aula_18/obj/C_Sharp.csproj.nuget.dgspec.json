@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Acer\\OneDrive\\Ambiente de Trabalho\\Programação\\C_Sharp\\C_Sharp\\aula_18\\C_Sharp.csproj": {}
+    "D:\\Pessoal\\C_Sharp-repo\\C_Sharp\\C_Sharp\\aula_18\\C_Sharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Acer\\OneDrive\\Ambiente de Trabalho\\Programação\\C_Sharp\\C_Sharp\\aula_18\\C_Sharp.csproj": {
+    "D:\\Pessoal\\C_Sharp-repo\\C_Sharp\\C_Sharp\\aula_18\\C_Sharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Acer\\OneDrive\\Ambiente de Trabalho\\Programação\\C_Sharp\\C_Sharp\\aula_18\\C_Sharp.csproj",
+        "projectUniqueName": "D:\\Pessoal\\C_Sharp-repo\\C_Sharp\\C_Sharp\\aula_18\\C_Sharp.csproj",
         "projectName": "C_Sharp",
-        "projectPath": "C:\\Users\\Acer\\OneDrive\\Ambiente de Trabalho\\Programação\\C_Sharp\\C_Sharp\\aula_18\\C_Sharp.csproj",
+        "projectPath": "D:\\Pessoal\\C_Sharp-repo\\C_Sharp\\C_Sharp\\aula_18\\C_Sharp.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Acer\\OneDrive\\Ambiente de Trabalho\\Programação\\C_Sharp\\C_Sharp\\aula_18\\obj\\",
+        "outputPath": "D:\\Pessoal\\C_Sharp-repo\\C_Sharp\\C_Sharp\\aula_18\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -20,6 +20,7 @@
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,6 +33,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

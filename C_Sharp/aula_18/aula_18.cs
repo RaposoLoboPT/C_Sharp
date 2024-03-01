@@ -1,32 +1,40 @@
 ﻿using System;
-class DataOnly
-{
-    public int Year { get; set; }
-    public int Month { get; set; }
-    public int Day { get; set; }
 
-    public DataOnly(int year, int month, int day)
+// Classe que representa uma data apenas
+class DateOnly
+{
+    public int Year { get; set; } // Propriedade para o ano
+    public int Month { get; set; } // Propriedade para o mês
+    public int Day { get; set; } // Propriedade para o dia
+
+    // Construtor para inicializar a data
+    public DateOnly(int year, int month, int day)
     {
         Year = year;
         Month = month;
         Day = day;
     }
 
+    // Método para formatar a data como uma string
     public override string ToString()
     {
         return $"{Day}/{Month}/{Year}";
     }
 }
+
+// Classe que representa uma pessoa
 class Person
 {
-    public string FirstName { get; set;}
-    public string LastName { get; set;}
-    public DataOnly Birthday { get; set;}
-    public int Age { get; set;}
-    public string Gender { get; set;}
-    public string Profession { get; set;}
-    public string Nacionality { get; set;}
-    public Person(string firstName, string lastName, DataOnly birthday, int age, string gender, string profession, string nacionality)
+    public string FirstName { get; set; } // Propriedade para o primeiro nome
+    public string LastName { get; set; } // Propriedade para o último nome
+    public DateOnly Birthday { get; set; } // Propriedade para a data de nascimento
+    public int Age { get; set; } // Propriedade para a idade
+    public string Gender { get; set; } // Propriedade para o género
+    public string Profession { get; set; } // Propriedade para a profissão
+    public string Nationality { get; set; } // Propriedade para a nacionalidade
+
+    // Construtor para inicializar uma pessoa
+    public Person(string firstName, string lastName, DateOnly birthday, int age, string gender, string profession, string nationality)
     {
         FirstName = firstName;
         LastName = lastName;
@@ -34,11 +42,13 @@ class Person
         Age = age;
         Gender = gender;
         Profession = profession;
-        Nacionality = nacionality;
+        Nationality = nationality;
     }
+
+    // Método para formatar as informações da pessoa como uma string
     public override string ToString()
     {
-        return $"His name is {FirstName} {LastName}, his birthday is {Birthday}, he is {Age} years old, his gender is {Gender}, his profession is {Profession} and his nacionality is {Nacionality}";
+        return $"His name is {FirstName} {LastName}, his birthday is {Birthday}, he is {Age} years old, his gender is {Gender}, his profession is {Profession}, and his nationality is {Nationality}";
     }
 }
 
@@ -46,8 +56,10 @@ class Program
 {
     static void Main()
     {
-        var I = new Person("Tiago", "Lobo", new DataOnly(2010, 3, 28), 13, "Male", "Student", "Portuguese"){};
-        Console.WriteLine(I);
+        // Criar uma instância de Person
+        var I = new Person("Tiago", "Lobo", new DateOnly(2010, 3, 28), 13, "Male", "Student", "Portuguese");
 
+        // Imprimir as informações da pessoa
+        Console.WriteLine(I);
     }
 }
